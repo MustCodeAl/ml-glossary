@@ -893,8 +893,10 @@ Rust
 
 .. rubric:: General-Purpose Machine Learning
 
+- `candle <https://github.com/huggingface/candle>`__ - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 - `deeplearn-rs <https://github.com/tedsta/deeplearn-rs>`__ - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-- `rustlearn <https://github.com/maciejkula/rustlearn>`__ - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+- `juice <https://github.com/fff-rs/juice>`__ - Juice is a open Machine Learning Framework for hackers to build classical, deep or hybrid machine learning applications.
+- `rustlearn <https://github.com/maciejkula/rustlearn>`__ - a machine learningr  framework featuring logistic regression, support vector machines, decision trees and random forests.
 - `rusty-machine <https://github.com/AtheMathmo/rusty-machine>`__ - a pure-rust machine learning library.
 - `leaf](https://github.com/autumnai/leaf) - open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe.  Available under the MIT license. [**[Deprecated]** <https://medium.com/@mjhirn/tensorflow-wins-89b78b29aafb#.s0a3uy4cc>`__
 - `RustNN <https://github.com/jackm321/RustNN>`__ - RustNN is a feedforward neural network library.
